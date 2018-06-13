@@ -1,0 +1,11 @@
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\bin\Debug\netcoreapp2.0\PowerHouseFitness.deps.json
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\bin\Debug\netcoreapp2.0\PowerHouseFitness.runtimeconfig.json
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\bin\Debug\netcoreapp2.0\PowerHouseFitness.runtimeconfig.dev.json
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\bin\Debug\netcoreapp2.0\PowerHouseFitness.dll
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\bin\Debug\netcoreapp2.0\PowerHouseFitness.pdb
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\obj\Debug\netcoreapp2.0\PowerHouseFitness.csprojAssemblyReference.cache
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\obj\Debug\netcoreapp2.0\PowerHouseFitness.csproj.CoreCompileInputs.cache
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\obj\Debug\netcoreapp2.0\PowerHouseFitness.AssemblyInfoInputs.cache
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\obj\Debug\netcoreapp2.0\PowerHouseFitness.AssemblyInfo.cs
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\obj\Debug\netcoreapp2.0\PowerHouseFitness.dll
+C:\Users\BR0KK\source\repos\PowerHouseFitness\PowerHouseFitness\obj\Debug\netcoreapp2.0\PowerHouseFitness.pdb
